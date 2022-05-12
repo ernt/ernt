@@ -1,4 +1,9 @@
-### Hello I´m Ernesto Nieves 👋
+
+
+### Hello I´m Ernesto Nieves 👋 🐧
+
+<img align="right" src="assets/kirbo.gif" >
+
 I'm 24 years old , Fullstack Development from Mexico 
 --------------
 # Hobbies:
@@ -20,6 +25,7 @@ I'm 24 years old , Fullstack Development from Mexico
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Angular](https://img.shields.io/badge/-Angular-%23F05032?style=flat-square&logo=angular&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Node](https://img.shields.io/badge/-NodeJS-%23282C34?style=flat-square&logo=node.js)
 
 ---------------------
 # Other 
@@ -29,6 +35,12 @@ I'm 24 years old , Fullstack Development from Mexico
 ![Sql](https://img.shields.io/badge/-SQL-%23282C34?style=flat-square&logo=Mysql)
 ![c](https://img.shields.io/badge/-C-%23282C34?style=flat-square&logo=c)
 
+-----------------------------
+# Other things 
+
+Aquiles:
+
+<img width="200px" height="250px" src="assets/aquiles.jpeg" >
 
 
 
