@@ -2,7 +2,6 @@
 
 ### Hello I´m Ernesto Nieves 👋 🐧
 
-<img align="right" src="assets/kirbo.gif" >
 
 I'm 24 years old , Fullstack Development from Mexico 
 --------------
@@ -78,6 +77,7 @@ I'm 24 years old , Fullstack Development from Mexico
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
+
 -----------------------------
 
 # Other things 🐕 🌭
