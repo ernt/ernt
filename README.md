@@ -78,19 +78,8 @@ I'm 24 years old , Fullstack Development from Mexico
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
-
----------------------
-# Other 
-![Java](https://img.shields.io/badge/-Java-%23F05032?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-%23282C34?style=flat-square&logo=spring)
-![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python)
-![Sql](https://img.shields.io/badge/-SQL-%23282C34?style=flat-square&logo=Mysql)
-![c](https://img.shields.io/badge/-C-%23282C34?style=flat-square&logo=c)
-
 -----------------------------
 # Other things 🐕 🌭
-
-
 
 Aquiles and Otis(My dogs):
   
