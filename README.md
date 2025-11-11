@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Hello I´m Ernesto Nieves 👋 🐧?</h1>
+<h1 align="center">Hello I´m Ernesto Nieves 👋 🐧</h1>
 
 
-I'm 24 years old , Fullstack Development from Mexico 
+I'm 27 years old , Fullstack Development from Mexico 
 --------------
 # Hobbies: 🤾‍♂️
 - Play videogames (Gaming addict)🎮
@@ -11,7 +11,9 @@ I'm 24 years old , Fullstack Development from Mexico
 - Listen to music (Good music obviously ) 🎵
 - Walking with my dog  (Aquiles the most crazy) 🐶
 - Watch series and movies (Anime and other things)🎥
+
 --------------
+
 # Lenguages & tools 🛠
 
 <div align="center">
@@ -81,14 +83,20 @@ I'm 24 years old , Fullstack Development from Mexico
 -----------------------------
 
 <section  align="center">
+
   # Other things 🐕 🌭
 
-Aquiles and Otis(My dogs):
+ ## My dogs 
   
-<img width="200px" height="250px" src="assets/aquil.jpeg"  /> <!-- wi*quL3fcV --><img   width="200px" height="250px" src="assets/otis.jpeg" />
+<img width="200px" height="250px" src="assets/aquiles.jpeg"  /> 
+<img   width="200px" height="250px" src="assets/otis.jpeg" />
+<img   width="200px" height="250px" src="assets/mila.jpeg" />
+<img   width="200px" height="250px" src="assets/taco.jpeg" />
 
 </section>
+
 ------------
+
 # GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
