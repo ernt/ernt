@@ -79,6 +79,7 @@ I'm 24 years old , Fullstack Development from Mexico
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 -----------------------------
+
 # Other things 🐕 🌭
 
 Aquiles and Otis(My dogs):
