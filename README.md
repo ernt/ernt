@@ -80,12 +80,14 @@ I'm 24 years old , Fullstack Development from Mexico
 
 -----------------------------
 
-# Other things 🐕 🌭
+<section  align="center">
+  # Other things 🐕 🌭
 
 Aquiles and Otis(My dogs):
   
 <img width="200px" height="250px" src="assets/aquil.jpeg"  /> <!-- wi*quL3fcV --><img   width="200px" height="250px" src="assets/otis.jpeg" />
 
+</section>
 ------------
 # GitHub Stats
 <picture>
